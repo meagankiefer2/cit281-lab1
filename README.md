@@ -6,11 +6,15 @@
 * Practice terminal commands
 * Practice keyboard shortcuts
 * Create my first Node.js server-side JavaScript file
+
+
 ### Technologies used
-	Chrome
-	Visual Studio Code
+`Chrome`
+`Visual Studio Code`
+
+
 ### What I learned
-	How to work with Visual Studio Code.
+How to work with Visual Studio Code.
 
 Lab 1 Node
 
