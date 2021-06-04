@@ -1,10 +1,16 @@
 ## CIT 281 Lab 1
 
-### Purpose of the Project
-
+### Purpose of Lab 1
+* Install and setup my computer with the software tools required for this course
+* Practice using software tools
+* Practice terminal commands
+* Practice keyboard shortcuts
+* Create my first Node.js server-side JavaScript file
 ### Technologies used
-
+	Chrome
+	Visual Studio Code
 ### What I learned
+	How to work with Visual Studio Code.
 
 Lab 1 Node
 
